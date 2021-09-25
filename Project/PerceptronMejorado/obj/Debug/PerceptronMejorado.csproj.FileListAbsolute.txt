@@ -4,3 +4,10 @@ c:\users\asus\documents\visual studio 2015\Projects\PerceptronMejorado\Perceptro
 c:\users\asus\documents\visual studio 2015\Projects\PerceptronMejorado\PerceptronMejorado\obj\Debug\PerceptronMejorado.csprojResolveAssemblyReference.cache
 c:\users\asus\documents\visual studio 2015\Projects\PerceptronMejorado\PerceptronMejorado\obj\Debug\PerceptronMejorado.exe
 c:\users\asus\documents\visual studio 2015\Projects\PerceptronMejorado\PerceptronMejorado\obj\Debug\PerceptronMejorado.pdb
+C:\MARROYO\GITHUB\IAPROJECT\Project\PerceptronMejorado\bin\Debug\PerceptronMejorado.exe.config
+C:\MARROYO\GITHUB\IAPROJECT\Project\PerceptronMejorado\bin\Debug\PerceptronMejorado.exe
+C:\MARROYO\GITHUB\IAPROJECT\Project\PerceptronMejorado\bin\Debug\PerceptronMejorado.pdb
+C:\MARROYO\GITHUB\IAPROJECT\Project\PerceptronMejorado\obj\Debug\PerceptronMejorado.csprojAssemblyReference.cache
+C:\MARROYO\GITHUB\IAPROJECT\Project\PerceptronMejorado\obj\Debug\PerceptronMejorado.csproj.CoreCompileInputs.cache
+C:\MARROYO\GITHUB\IAPROJECT\Project\PerceptronMejorado\obj\Debug\PerceptronMejorado.exe
+C:\MARROYO\GITHUB\IAPROJECT\Project\PerceptronMejorado\obj\Debug\PerceptronMejorado.pdb

@@ -8,20 +8,20 @@ namespace PerceptronVideo
 {
     class Program
     {
-        static string inputPath = @"..\..\..\DataSets\AND.csv";
+        static string inputPath = @"..\..\..\DataSets\ANDSTORE.csv";
         static string outputPath = @"..\..\..\DataSets\salida.csv";
         static string neuralNetworkPath = @"..\..\..\DataSets\NN.bin";
 
-        static int inputCount = 2;
+        static int inputCount = 3;
         static int outputCount = 1;
 
         static bool saveNetwork = true;
-        static bool loadNetwork = true;
+        static bool loadNetwork = false;
 
         static double inputMax = 1;
         static double inputMin = 0;
 
-        static double outputMax = 1;
+        static double outputMax = 10;
         static double outputMin = 0;
 
         static List<double[]> input = new List<double[]>();
@@ -90,7 +90,7 @@ namespace PerceptronVideo
 
             int[] net_def = new int[] { inputCount, 10, 10, outputCount };
             double learning_rate = 0.3;
-            double max_error = 0.0001;
+            double max_error = 0.01;
             int max_iter = 1000000;
 
             if (!loadNetwork)
